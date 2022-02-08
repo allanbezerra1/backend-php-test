@@ -6,8 +6,8 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 
 /**
- * @method static find(int $id)
- * @method static create(array $input)
+ * @method find(int $id)
+ * @method create(array $input)
  */
 class Product extends Model
 {
